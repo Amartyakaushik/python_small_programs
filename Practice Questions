@@ -1,0 +1,112 @@
+#Gender=str(input("Gender"))
+#Age=int(input("Age"))
+# 
+#if Gender=="M" and Age>=19:
+#    print("he can vote")
+#elif Gender=="M" and Age <19:
+#    print("he can't vote")
+#elif Gender=="F" and Age>=21:
+#    print("She can vote")
+#elif Gender=="F" and Age<21:
+#    print("she can't vote")
+ 
+
+#a=3
+#b=5
+#if(a<b):
+#     print("a>b=False\na<b=true\na==b=False\na!=b=True\na>=b=False\na<=b=True")
+#
+#
+##import keyword
+##print (keyword.kwlist)
+#
+##num=675654
+#
+#a="dreamtogoogle"
+#a[1:3]
+#print(a)
+#
+#from operator import index
+
+#a="COMMUNICATION"
+#
+#
+#for A in range(14):
+#    if A%2!=0:
+#        continue
+#    print(A)
+#    print(a[0,2,4,6,8,10,12],sep='')
+#    c=index%2==1
+#for i in range()
+#print(i)
+
+#print(a[0])
+#print(a[2])5
+#print(a[4])
+#print(a[6])
+#print(a[8])
+#print(a[10])
+#print(a[12])
+
+# for i in range(0,len(a),2):
+#     print(a[i])
+
+#sonu = {"penlaty" : "Ronaldo", "Dribbling" : "Messi"}
+#print(sonu["penlaty"])
+
+
+#S="LANGUAGE"
+#
+#
+#for i in range(1,len(S),2):
+#   print(a[i])
+
+#a=4534
+#print(a)
+
+
+
+
+
+#s="programming"
+#i=[]
+#c=[s[0:4],s[-3:]]
+
+#c_split=c.splitlines
+#print(c)
+#print(i[0:4],i[-3:])
+
+
+
+
+#print(s[0:4] \n s[-3:])
+#for i in range(0,4):
+
+#for i in s:
+ #   print(i[0:4])
+
+#g=input("enter no: ")
+#s=int(g)
+#s=s%10
+#print(s)
+
+##  QUESTION
+
+#p=int(input("p:"))
+#q=int(input("q:"))
+#a=hex(p)
+#b=complex(p,q)
+#print(a,b)
+
+
+#18
+#p=float(input("p="))
+#q=float(input("q="))
+#r=(p*q)
+#print(r)
+#s=(r and p)              ##                      DOUBT                       ##
+#print(s)
+#if (s==r):
+#    print(True)
+#else:
+#    print(False)
